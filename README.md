@@ -16,11 +16,11 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-\-Python
+-Python
 
-\-Pandas
+-Pandas
 
-\-Matplotlib
+-Matplotlib
 
 
 
@@ -32,7 +32,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Top Products](https://github.com/aarnisha717/Retail-Sales-Analysis/blob/main/charts/top_selling_products_chart.png)
+![Top Products](charts/top_selling_products_chart.png)
 
 
 
@@ -44,7 +44,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Monthly Sales](charts/monthly_sales_trend_chart.png)
+![Monthly Sales](charts/monthly_sales_trend_chart.png)
 
 
 
@@ -56,7 +56,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Category Revenue](charts/category_wise_revenue_chart.png)
+![Category Revenue](charts/category_wise_revenue_chart.png)
 
 
 
@@ -68,7 +68,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Top Customers](charts/highest_spending_customers_chart.png)
+![Top Customers](charts/highest_spending_customers_chart.png)
 
 
 
@@ -80,7 +80,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Orders Category](charts/orders_by_category_chart.png)
+![Orders Category](charts/orders_by_category_chart.png)
 
 
 
@@ -92,7 +92,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Gender Analysis](charts/gender_based_sales_chart.png)
+![Gender Analysis](charts/gender_based_sales_chart.png)
 
 
 
@@ -104,7 +104,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Age Group](charts/sales_by_age_group_chart.png)
+![Age Group](charts/sales_by_age_group_chart.png)
 
 
 
@@ -126,11 +126,11 @@ This analysis provides insights into sales patterns and customer behaviour, whic
 
 
 
-\-Add more datasets
+-Add more datasets
 
-\-Use advanced visualizations
+-Use advanced visualizations
 
 (Seaborn / Plotly)
 
-\-Build dashboard
+-Build dashboard
 
