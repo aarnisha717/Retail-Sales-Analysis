@@ -32,7 +32,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Top Products](charts/top_selling_products_chart.png)
+!\[Top Products](https://github.com/aarnisha717/Retail-Sales-Analysis/blob/main/charts/top_selling_products_chart.png)
 
 
 
