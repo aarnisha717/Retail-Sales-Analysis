@@ -44,7 +44,7 @@ It helps understand sales trends, customer behaviour, and product performance.
 
 
 
-!\[Monthly Sales](charts/monthly_sales_trend_charts.png)
+!\[Monthly Sales](charts/monthly_sales_trend_chart.png)
 
 
 
